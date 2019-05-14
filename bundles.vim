@@ -62,8 +62,7 @@ Bundle 'fatih/vim-go'
 Bundle 'morhetz/gruvbox'
 Bundle 'joshdick/onedark.vim'
 
-Bundle 'ybian/smartim'
-Bundle 'sheerun/vim-polyglot'
+"Bundle 'sheerun/vim-polyglot'
 
 Bundle 'pearofducks/ansible-vim'
 
